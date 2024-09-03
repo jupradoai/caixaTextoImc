@@ -1,5 +1,4 @@
-**Nome: Julyana Tatiana Prado Lara
-RA:	2171392221039**
+**Nome: Julyana Tatiana Prado Lara , RA:	2171392221039**
 
 **Projeto: Calculadora de IMC**
 
