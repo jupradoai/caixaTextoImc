@@ -87,5 +87,8 @@ Clique em "Run" no Android Studio para compilar e executar o aplicativo.
 Contribuições
 Sinta-se à vontade para contribuir com melhorias e correções. Para isso, abra um issue ou faça um pull request.
 
-![caixaTexto - IMC](https://github.com/user-attachments/assets/1c810d55-02c2-4958-a5a6-3d18e27c7fcf)
+
+
+<img width="233" alt="image" src="https://github.com/user-attachments/assets/4bb995e2-7482-4e86-8dc3-72dc1be9261f">
+
 
